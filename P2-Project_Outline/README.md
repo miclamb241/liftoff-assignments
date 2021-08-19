@@ -14,7 +14,7 @@ This site will give people a quick way to learn about restaurant options in thei
 other customer reviews will help them in making the most informed decision about where they want to eat.
 
 ### Features
-User logon: Users will be able to create accounts and log in to the application. Each user will have a profile page.
+User login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
 Create listing: Users will be able to create new restaurant pages that other users can view.
 Post reviews: Users will be able to post reviews for restaurants that other users can view.
 
